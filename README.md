@@ -106,6 +106,55 @@ MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh 
     +-------------+----------------------+----------+------------+------------+
     ```
 
+5. Tampilkan daftar __negara G20 beserta ibukotanya__. G20 merupakan kelompok 19 negara dengan perekonomian besar di dunia, ditambah dengan Uni Eropa, yang dibentuk sejak 1999 sebagai forum untuk mendiskusikan berbagai masalah kunci di bidang ekonomi dunia. Negara yang terdaftar sebagai anggota G20 adalah: 
+
+    - <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png' alt='tes' style='height:13px; width:18px'/> Argentina 
+    - <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png' alt='tes' style='height:13px; width:18px'/> Australia 
+    - <img src='https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png' alt='tes' style='height:13px; width:18px'/> Brazil 
+    - <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png' alt='tes' style='height:13px; width:18px'/> Canada 
+    - <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png' alt='tes' style='height:13px; width:18px'/> China 
+    - <img src='https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png' alt='tes' style='height:13px; width:18px'/> France 
+    - <img src='https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png' alt='tes' style='height:13px; width:18px'/> Germany 
+    - <img src='https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png' alt='tes' style='height:13px; width:18px'/> India 
+    - <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/35px-Flag_of_Indonesia.svg.png' alt='tes' style='height:13px; width:18px'/> Indonesia 
+    - <img src='https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png' alt='tes' style='height:13px; width:18px'/> Italia 
+    - <img src='https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png' alt='tes' style='height:13px; width:18px'/> Japan 
+    - <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png' alt='tes' style='height:13px; width:18px'/> Mexico 
+    - <img src='https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png' alt='tes' style='height:13px; width:18px'/> Russian Federation 
+    - <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/35px-Flag_of_Saudi_Arabia.svg.png' alt='tes' style='height:13px; width:18px'/> Saudi Arabia 
+    - <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png' alt='tes' style='height:13px; width:18px'/> South Africa 
+    - <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/35px-Flag_of_South_Korea.svg.png' alt='tes' style='height:13px; width:18px'/> South Korea 
+    - <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png' alt='tes' style='height:13px; width:18px'/> Turkey
+    - <img src='https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png' alt='tes' style='height:13px; width:18px'/> United Kingdom 
+    - <img src='https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png' alt='tes' style='height:13px; width:18px'/> United States
+    
+    Tampilkan daftar negara G20 beserta ibukotanya, dengan kolom yang diwajibkan ada yaitu __nama negara__ dan __nama ibukota__. Output yang diharapkan:
+
+    ```bash
+    +--------------------+-------------------+
+    | Negara_G20         | Ibukota           |
+    +--------------------+-------------------+
+    | Argentina          | Buenos Aires      |
+    | Australia          | Canberra          |
+    | Brazil             | BrasÃ­lia          |
+    | Canada             | Ottawa            |
+    | China              | Peking            |
+    | France             | Paris             |
+    | Germany            | Berlin            |
+    | India              | New Delhi         |
+    | Indonesia          | Jakarta           |
+    | Japan              | Tokyo             |
+    | Mexico             | Ciudad de MÃ©xico |
+    | Russian Federation | Moscow            |
+    | Saudi Arabia       | Riyadh            |
+    | South Africa       | Pretoria          |
+    | South Korea        | Seoul             |
+    | Turkey             | Ankara            |
+    | United Kingdom     | London            |
+    | United States      | Washington        |
+    +--------------------+-------------------+
+    ```
+
 - Contoh screenshot:
 
     ![tes](./tes.png)
