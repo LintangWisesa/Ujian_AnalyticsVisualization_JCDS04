@@ -210,6 +210,42 @@ MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh 
 
 #
 
+### **Soal 2 - Infografis ASEAN** <img src='https://upload.wikimedia.org/wikipedia/id/thumb/4/49/Seal_of_ASEAN.svg/630px-Seal_of_ASEAN.svg.png' alt='lintang' style='height:20px; width:20px'/>
+
+Sama seperti soal pertama, soal kedua kali ini masih menggunakan database ```world``` MySQL dan berfokus pada data negara-negara yang tergabung dalam __ASEAN (_Association of Southeast Asian Nations_)__. Aktifkan server MySQL Anda, lalu gunakan database ```world``` dan selesaikan beberapa soal berikut:
+
+1. __Populasi ASEAN__
+
+    Buatlah sebuah __file python__ yang dapat mengakses daftar negara ASEAN dari database ```world``` dan menampilkan populasi negara-negara ASEAN dalam bentuk diagram batang. Output yang diharapkan berupa __diagram batang__ dengan __nilai/jumlah populasi tertera__ di atas diagram. Style, desain & warna tidak harus sama, utamakan validitas data:
+
+    ![populasi ASEAN](./populasiASEAN.png)
+
+#
+
+2. __Persentase Populasi ASEAN__
+
+    Buatlah sebuah __file python__ yang dapat mengakses daftar negara ASEAN dari database ```world``` dan menampilkan persentase populasi negara-negara ASEAN dalam bentuk diagram lingkaran. Output yang diharapkan berupa __diagram lingkaran__ dengan __nilai persentase populasi tertera__ dalam diagram. Style, desain & warna tidak harus sama, utamakan validitas data:
+
+    ![persen populasi ASEAN](./persenPopASEAN.png)
+
+#
+
+3. __Gross National Product ASEAN__
+
+    Buatlah sebuah __file python__ yang dapat mengakses daftar negara ASEAN dari database ```world``` dan menampilkan Pendapatan Bruto Nasional/GNP (Gross National Product) negara-negara ASEAN dalam bentuk diagram batang. Output yang diharapkan berupa __diagram batang__ dengan __nilai GNP tertera__ di atas diagram. Style, desain & warna tidak harus sama, utamakan validitas data:
+
+    ![GNP ASEAN](./gnpASEAN.png)
+
+#
+
+4. __Persentase Luas Daratan ASEAN__
+
+    Buatlah sebuah __file python__ yang dapat mengakses daftar negara ASEAN dari database ```world``` dan menampilkan persentase luas daratan negara-negara ASEAN dalam bentuk diagram lingkaran. Output yang diharapkan berupa __diagram lingkaran__ dengan __nilai persentase luas daratan tertera__ dalam diagram. Style, desain & warna tidak harus sama, utamakan validitas data:
+
+    ![persen luas daratan ASEAN](./persenLuasASEAN.png)
+
+✅ _Commit & push source code jawaban soal ini ke __Github__ Anda, buatlah repo dengan nama __Infografis_ASEAN__, kemudian lampirkan __url link repo Github__ Anda via email ke _lintang@purwadhika.com!_
+
 #
 
 ### *__#HappyCoding__* :relaxed:
