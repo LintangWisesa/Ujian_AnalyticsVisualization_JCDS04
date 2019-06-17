@@ -6,7 +6,7 @@
 
 ### **Soal 1 - MySQL World Database**
 
-MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh user untuk mempelajari teknik penggunaan database di MySQL. Database ```world``` merupakan sample real database yang bersumber dari [Statistics Finland]() dan dirilis sekitar awal tahun 2000-an. Database ini berisi 3 buah tabel yang saling berhubungan satu sama lain:
+MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh user untuk mempelajari teknik penggunaan database di MySQL. Database ```world``` merupakan sample real database yang bersumber dari [Statistics Finland](https://www.stat.fi/index_en.html) dan dirilis sekitar awal tahun 2000-an. Database ini berisi 3 buah tabel yang saling berhubungan satu sama lain:
 
 - Tabel ```city``` berisi informasi tentang __4079__ kota di dunia.
 - Tabel ```country``` berisi informasi tentang __239__ negara/wilayah yang dianggap negara di dunia.
