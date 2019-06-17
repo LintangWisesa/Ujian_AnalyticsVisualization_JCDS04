@@ -104,7 +104,7 @@ MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh 
     +-----------+-------+-------------------+------------+
     ```
 
-6. Tampilkan daftar __10 negara yang bahasa resminya (_official language_) adalah bahasa Inggris, dan memiliki persentase pengguna bahasa Inggris tertinggi di dunia__. Kolom yang diwajibkan ada yaitu __kode negara__, __nama negara__, __bahasa__, __kolom isOfficial__ dan __percentage__. Output yang diharapkan:
+6. Tampilkan daftar __10 negara yang bahasa resminya (_official language_) adalah bahasa Inggris, dan memiliki persentase pengguna bahasa Inggris tertinggi di dunia__. Kolom yang diwajibkan ada yaitu __kode negara__, __nama negara__, __bahasa__, __kolom isOfficial__ dan __percentage__. Urutkan dari persentase pengguna bahasa Inggris tertinggi. Output yang diharapkan:
 
     ```bash
     +-------------+----------------------+----------+------------+------------+
@@ -137,7 +137,7 @@ MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh 
     - <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/33px-Flag_of_Thailand.svg.png' alt='lintang' style='height:13px; width:18px'/> Thailand
     - <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/33px-Flag_of_Vietnam.svg.png' alt='lintang' style='height:13px; width:18px'/> Vietnam
     
-    Tampilkan daftar __negara ASEAN beserta populasi negaranya, Pendapatan Nasional Bruto/GNP (_Gross National Product_), ibukota & populasi ibukota__, dengan kolom yang diwajibkan ada yaitu __nama negara__, __populasi negara__, __pendapatan nasional bruto (GNP)__, __nama ibukota__ dan __populasi ibukota__. Output yang diharapkan:
+    Tampilkan daftar __negara ASEAN beserta populasi negaranya, Pendapatan Nasional Bruto/GNP (_Gross National Product_), ibukota & populasi ibukota__, dengan kolom yang diwajibkan ada yaitu __nama negara__, __populasi negara__, __pendapatan nasional bruto (GNP)__, __nama ibukota__ dan __populasi ibukota__. Urutkan berdasarkan abjad nama negara. Output yang diharapkan:
 
     ```bash
     +--------------+-----------------+-----------+---------------------+------------------+
@@ -179,7 +179,7 @@ MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh 
     - <img src='https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png' alt='lintang' style='height:13px; width:18px'/> United Kingdom 
     - <img src='https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png' alt='lintang' style='height:13px; width:18px'/> United States
     
-    Tampilkan daftar __negara G20 beserta populasi negaranya, Pendapatan Nasional Bruto/GNP (_Gross National Product_), ibukota & populasi ibukota__, dengan kolom yang diwajibkan ada yaitu __nama negara__, __populasi negara__, __pendapatan nasional bruto (GNP)__, __nama ibukota__ dan __populasi ibukota__. Output yang diharapkan:
+    Tampilkan daftar __negara G20 beserta populasi negaranya, Pendapatan Nasional Bruto/GNP (_Gross National Product_), ibukota & populasi ibukota__, dengan kolom yang diwajibkan ada yaitu __nama negara__, __populasi negara__, __pendapatan nasional bruto (GNP)__, __nama ibukota__ dan __populasi ibukota__. Urutkan berdasarkan abjad nama negara. Output yang diharapkan:
 
     ```bash
     +--------------------+-----------------+------------+-------------------+------------------+
@@ -210,9 +210,9 @@ MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh 
 
 #
 
-### **Soal 2 - Infografis ASEAN** <img src='https://upload.wikimedia.org/wikipedia/id/thumb/4/49/Seal_of_ASEAN.svg/630px-Seal_of_ASEAN.svg.png' alt='lintang' style='height:20px; width:20px'/>
+### **Soal 2 - Infografis ASEAN**
 
-Sama seperti soal pertama, soal kedua kali ini masih menggunakan database ```world``` MySQL dan berfokus pada data negara-negara yang tergabung dalam __ASEAN (_Association of Southeast Asian Nations_)__. Aktifkan server MySQL Anda, lalu gunakan database ```world``` dan selesaikan beberapa soal berikut:
+Sama seperti soal pertama, soal kedua kali ini masih menggunakan database ```world``` MySQL dan berfokus pada data negara-negara yang tergabung dalam __ASEAN <img src='https://upload.wikimedia.org/wikipedia/id/thumb/4/49/Seal_of_ASEAN.svg/630px-Seal_of_ASEAN.svg.png' alt='lintang' style='height:18px; width:18px'/> (_Association of Southeast Asian Nations_)__. Aktifkan server MySQL Anda, lalu gunakan database ```world``` dan selesaikan beberapa soal berikut:
 
 1. __Populasi ASEAN__
 
