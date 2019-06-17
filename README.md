@@ -244,7 +244,7 @@ Sama seperti soal pertama, soal kedua kali ini masih menggunakan database ```wor
 
     ![persen luas daratan ASEAN](./persenLuasASEAN.png)
 
-✅ _Commit & push source code jawaban soal ini ke __Github__ Anda, buatlah repo dengan nama __Infografis_ASEAN__, kemudian lampirkan __url link repo Github__ Anda via email ke _lintang@purwadhika.com!_
+✅ *Commit & push source code jawaban soal ini ke __Github__ Anda, buatlah repo dengan nama __Infografis_ASEAN__, kemudian lampirkan __url link repo Github__ Anda via email ke _lintang@purwadhika.com!_*
 
 #
 
