@@ -206,7 +206,7 @@ MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh 
     +--------------------+-----------------+------------+-------------------+------------------+
     ```
 
-✅ _Lampirkan jawaban berupa daftar query MySQL dalam bentuk file __.txt__ dan kirimkan via email ke _lintang@purwadhika.com_!_
+    ✅ _Lampirkan jawaban berupa daftar query MySQL dalam bentuk file __.txt__ dan kirimkan via email ke _lintang@purwadhika.com_!_
 
 #
 
@@ -244,7 +244,7 @@ Sama seperti soal pertama, soal kedua kali ini masih menggunakan database ```wor
 
     ![persen luas daratan ASEAN](./persenLuasASEAN.png)
 
-✅ *Commit & push source code jawaban soal ini ke __Github__ Anda, buatlah repo dengan nama __Infografis_ASEAN__, kemudian lampirkan __url link repo Github__ Anda via email ke _lintang@purwadhika.com!_*
+    ✅ *Commit & push source code jawaban soal ini ke __Github__ Anda, buatlah repo dengan nama __Infografis_ASEAN__, kemudian lampirkan __url link repo Github__ Anda via email ke _lintang@purwadhika.com!_*
 
 #
 
@@ -267,11 +267,11 @@ PT Telekomunikasi Indonesia Tbk|[TLKM.JK.csv](./dataSaham/TLKM.JK.csv)
 
 #
 
-2. Buatlah sebuah file __python__ yang mengakses data dari ke-4 file .csv tersebut, kemudian tampilkan data plot harga penutupan (close) harian __selama bulan April__. Output yang diharapkan berupa __grafik garis__ yang menampilkan harga penutupan (close) harian dari ke-4 perusahaan telco selama __bulan April__:
+2. Buatlah sebuah file __python__ yang mengakses data dari ke-4 file .csv tersebut, kemudian tampilkan data plot harga penutupan (close) harian selama __bulan April 2019__. Output yang diharapkan berupa __grafik garis__ yang menampilkan harga penutupan (close) harian dari ke-4 perusahaan telco selama __bulan April 2019__:
 
     ![close all](./dataSaham_April.png)
 
-✅ *Commit & push source code jawaban soal ini ke __Github__ Anda, buatlah repo dengan nama __Saham_Telco_IDN__, kemudian lampirkan __url link repo Github__ Anda via email ke _lintang@purwadhika.com!_*
+    ✅ *Commit & push source code jawaban soal ini ke __Github__ Anda, buatlah repo dengan nama __Saham_Telco_IDN__, kemudian lampirkan __url link repo Github__ Anda via email ke _lintang@purwadhika.com!_*
 
 #
 
