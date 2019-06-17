@@ -214,7 +214,7 @@ MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh 
 
 Sama seperti soal pertama, soal kedua kali ini masih menggunakan database ```world``` MySQL dan berfokus pada data negara-negara yang tergabung dalam __ASEAN (_Association of Southeast Asian Nations_)__. Aktifkan server MySQL Anda, lalu gunakan database ```world``` dan selesaikan beberapa soal berikut:
 
-1. __Populasi ASEAN <img src='https://upload.wikimedia.org/wikipedia/id/thumb/4/49/Seal_of_ASEAN.svg/630px-Seal_of_ASEAN.svg.png' alt='lintang' style='height:18px; width:18px'/>__
+1. __Populasi ASEAN__
 
     Buatlah sebuah __file python__ yang dapat mengakses daftar negara ASEAN dari database ```world``` dan menampilkan populasi negara-negara ASEAN dalam bentuk diagram batang. Output yang diharapkan berupa __diagram batang__ dengan __nilai/jumlah populasi tertera__ di atas diagram. Style, desain & warna tidak harus sama, utamakan validitas data:
 
